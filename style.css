@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: grey;
+    width: 100vw;
+    height: 100vh;
+    font-family:  'PT Serif', serif;
+}
+
+.img img{
+    width: 100vw;
+    height: 100vh;
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img h1{
+    position: absolute;
+    color: whitesmoke;
+    margin-top: 30px;
+}
+
+.img form{
+    position: absolute;
+    color: whitesmoke;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#textBox{
+    border: 3px solid black;
+    text-align: center;
+    padding: 2px;
+}
+
+#textBox1{
+    border: 3px solid black;
+    text-align: center;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+#textBox2{
+    border: 3px solid black;
+    text-align: center;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+#textBox3{
+    border: 3px solid black;
+    text-align: center;
+    padding: 6px;
+    margin-top: 5px;
+}
+
+.sub{
+    border: 3px solid black;
+    text-align: center;
+    padding: 2px;
+}
+
+
+
